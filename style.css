@@ -1,9 +1,9 @@
-#mycanvas{
-    border: 3px solid black;
-    position: absolute;
-    top:50%;
-    left:50%;
-    transform: translate(-50%,-50%);
-    height: 1000px;
-    width: 500px;
+#mycanvas {
+  border: 3px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  height: 1000px;
+  width: 500px;
 }
